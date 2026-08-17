@@ -2,6 +2,10 @@
 
 **文件介绍**：
 kejia 会统一在每次完成海外平台的发布任务后更新该文件，然后提合并pr
+## 2026-08-17
+**完成 Gartner 文章发布**
+- X（双账号）已发布，其中 MO 的账号为 post 形式
+- Linkedin：https://www.linkedin.com/pulse/matrixorigin-recognized-2026-gartner-coolest-vendor-qvp0c
 
 ## 2026-08-12
 **完成 issue#59 潜在独角兽文章海外平台发布**
